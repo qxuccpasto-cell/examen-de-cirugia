@@ -1,0 +1,5 @@
+{
+  "name": "SurgiEval AI",
+  "description": "An interactive OSCE/ECOE evaluation tool for Clinical Surgery, featuring AI-generated cases, intelligent checklists, real-time timing, and automated feedback generation.",
+  "requestFramePermissions": []
+}
